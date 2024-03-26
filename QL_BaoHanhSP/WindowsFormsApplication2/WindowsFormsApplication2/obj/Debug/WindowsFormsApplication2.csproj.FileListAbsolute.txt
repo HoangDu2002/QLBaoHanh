@@ -1,0 +1,35 @@
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MongoDB.Bson.dll
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MongoDB.Driver.Core.dll
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MongoDB.Driver.dll
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormNV.resources
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormBH.resources
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormHD.resources
+E:\Đồ Án\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormBH.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormHD.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormNV.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Desktop\QL_BaoHanhSP\QL_BaoHanhSP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

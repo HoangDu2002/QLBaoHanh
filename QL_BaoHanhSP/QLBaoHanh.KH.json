@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6528d2794c92526c0a8d7f43"
+  },
+  "MaKH": "kh001",
+  "TenKH": "Nguyen Van A",
+  "SDT": "0234567425",
+  "DChi": "140 LTT"
+},
+{
+  "_id": {
+    "$oid": "6528d2794c92526c0a8d7f44"
+  },
+  "MaKH": "kh002",
+  "TenKH": "Phan Trung Hoan",
+  "SDT": "0123456789",
+  "DChi": "1 LTT"
+},
+{
+  "_id": {
+    "$oid": "6528d2d94c92526c0a8d7f45"
+  },
+  "MaKH": "kh003",
+  "TenKH": "Le Duc Tin",
+  "SDT": "0986467425",
+  "DChi": "140 Dong Khoi"
+},
+{
+  "_id": {
+    "$oid": "6528d2d94c92526c0a8d7f46"
+  },
+  "MaKH": "kh004",
+  "TenKH": "Duong Hoang Ton Bao",
+  "SDT": "0961237890",
+  "DChi": "12 Nguyen Thi Tu"
+}]

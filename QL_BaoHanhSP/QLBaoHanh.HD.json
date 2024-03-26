@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6528d76b4c92526c0a8d7f4b"
+  },
+  "MaHD": "hd001",
+  "MaKH": "kh001",
+  "MaNV": "nv001",
+  "MaSP": "sp001",
+  "NgMua": "12/10/2023",
+  "TimeBH": "6 tháng",
+  "TongTien": "220000"
+},
+{
+  "_id": {
+    "$oid": "6528d76b4c92526c0a8d7f4c"
+  },
+  "MaHD": "hd002",
+  "MaKH": "kh002",
+  "MaNV": "nv001",
+  "MaSP": "sp003",
+  "NgMua": "9/10/2023",
+  "TimeBH": "6 tháng",
+  "TongTien": "290000"
+}]

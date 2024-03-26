@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6528d0524c92526c0a8d7f3d"
+  },
+  "MaSP": "sp001",
+  "TenSP": "Ao So Mi",
+  "GiaBan": "220000",
+  "NSX": "12/01/2023"
+},
+{
+  "_id": {
+    "$oid": "6528d0524c92526c0a8d7f3e"
+  },
+  "MaSP": "sp002",
+  "TenSP": "Ao Thun Polo",
+  "NSX": "10/02/2023",
+  "GiaBan": "150000"
+},
+{
+  "_id": {
+    "$oid": "6528d0b34c92526c0a8d7f3f"
+  },
+  "MaSP": "sp003",
+  "TenSP": "Quan Tay",
+  "GiaBan": "290000",
+  "NSX": "12/01/2022"
+},
+{
+  "_id": {
+    "$oid": "6528d0b34c92526c0a8d7f40"
+  },
+  "MaSP": "sp004",
+  "TenSP": "Ao Khoac",
+  "NSX": "10/05/2022",
+  "GiaBan": "350000"
+},
+{
+  "_id": {
+    "$oid": "6528d1194c92526c0a8d7f41"
+  },
+  "MaSP": "sp005",
+  "TenSP": "Quan Jean",
+  "GiaBan": "220000",
+  "NSX": "10/10/2023"
+},
+{
+  "_id": {
+    "$oid": "6528d1194c92526c0a8d7f42"
+  },
+  "MaSP": "sp006",
+  "TenSP": "Quan sot",
+  "NSX": "10/09/2023",
+  "GiaBan": "150000"
+}]

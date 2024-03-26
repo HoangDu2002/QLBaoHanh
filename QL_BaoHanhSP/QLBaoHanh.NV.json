@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6528d54a4c92526c0a8d7f47"
+  },
+  "MaNV": "nv001",
+  "TenNV": "Ho Dinh Luan",
+  "NGSinh": "06/08/2002",
+  "SDT": "0909452187",
+  "DChi": "10 Tan Quy",
+  "ChucVu": "Thu Ngan"
+},
+{
+  "_id": {
+    "$oid": "6528d54a4c92526c0a8d7f48"
+  },
+  "MaNV": "nv002",
+  "TenNV": "Phung Duc Quang",
+  "NGSinh": "10/06/2002",
+  "DChi": "25 Quang Trung",
+  "ChucVu": "Xep Hang Kho",
+  "SDT": "0789366055"
+},
+{
+  "_id": {
+    "$oid": "6528d5c74c92526c0a8d7f49"
+  },
+  "MaNV": "nv003",
+  "TenNV": "Trinh Le Hoang Du",
+  "NGSinh": "08/08/2002",
+  "SDT": "0708452187",
+  "DChi": "10 Tinh Lo 10",
+  "ChucVu": "Kiem Tra Khac Phuc Loi SP"
+},
+{
+  "_id": {
+    "$oid": "6528d5c74c92526c0a8d7f4a"
+  },
+  "MaNV": "nv004",
+  "TenNV": "Duong Tuyet Linh",
+  "NGSinh": "10/12/2002",
+  "DChi": "254 Tan Hoa Dong",
+  "ChucVu": "Dong Goi",
+  "SDT": "0456366055"
+}]
